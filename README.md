@@ -17,13 +17,3 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,tailwind,firebase,supabase,git,github,vscode,linux,wsl" />
 </p>
 
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pawanhirumina&theme=dark&hide_border=true" />
-</div>
-
-###
