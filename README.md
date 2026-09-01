@@ -1,12 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
 <p data-importer="text" align="left">I'm Pawan Hirumina<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Typescript and Python<br>- ⚡ In my free time I turn my dumb thoughts into web apps</p>
 
 ###
