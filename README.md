@@ -4,10 +4,11 @@
 
 **Fun Fact:** I use Vim (btw)
 
-## Life
+- For more info use this 
 
-- Recently finished my Diploma in ICT
-- Currently doing my A/Ls
+```shell
+curl https://pawanhirumina.dev
+```
 
 ## Projects 
 - [File Sharing Web App](https://dropnsharepro.vercel.app/)
