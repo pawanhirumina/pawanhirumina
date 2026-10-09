@@ -1,15 +1,5 @@
 # Pawan Hirumina
 
-**Tech Stack:** Next.js, React, Tailwind CSS, Supabase
-
-**Fun Fact:** I use Vim (btw)
-
-- For more info use this 
-
-```shell
-curl https://pawanhirumina.dev
-```
-
 ## Projects 
 - [File Sharing Web App](https://dropnsharepro.vercel.app/)
 - [Web Extension](https://addons.mozilla.org/en-US/firefox/addon/yt-transcript-yoinker/)
