@@ -1,7 +1,5 @@
 # Pawan Hirumina
 
-Frontend developer focused on building fast, modern web apps.
-
 ## Projects
 
 - [Dock](https://github.com/pawanhirumina/dock) — Self-hosted developer control plane for deployments, uptime, GitHub, and more.
