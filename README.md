@@ -32,6 +32,4 @@ Firefox extension that copies YouTube transcripts in one click.
 
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawanhirumina&show_icons=true&theme=dark&hide=issuescount_private=true)
 
-
-Made with ❤️
     
